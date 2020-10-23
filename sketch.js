@@ -1,8 +1,7 @@
-//to create the objects 
 var bullet,wall;
 var speed,weight,thickness;
 var damage;
-//var start;
+
 var END=3;
 var PLAY=2;
 var START=1;
